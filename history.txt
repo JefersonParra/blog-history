@@ -1,1 +1,6 @@
-	# Este es un ejemplo de un tracked file
+	# Este es el primer paso de mi historia personal.
+	# Y este es el segundo paso, la continuidad.
+
+	Mi nombre es Jeferson Parra, tengo 19 años.
+	Actualmente soy estudiante de la mejor plataforma de enseñanza en línea, Platzi.
+	Y no olvides que nunca hay que parar de aprender.
