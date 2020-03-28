@@ -1,0 +1,7 @@
+Aqui encontraras toda la información acerca de Oh My Zsh.
+
+	Tenga en cuenta que esta información, es muy importante.
+
+	1.	ZSH.
+	2.	BASH.
+	3.	OTHER.
