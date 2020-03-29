@@ -2,7 +2,9 @@
     width: 90%;
     margin: auto;
     padding: 20px 0;
-    background-color: #ffa41b;
+    border-radius: 20% 0 20% 0;
+    background-color: #ffcf0f;
+    color: #000839;
     text-align: center;
 }
 
