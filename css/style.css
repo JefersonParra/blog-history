@@ -1,7 +1,25 @@
-body {
+.header {
+    width: 90%;
+    margin: auto;
+    padding: 20px 0;
+    background-color: #ffa41b;
     text-align: center;
 }
 
-p {
-    color: coral;
+.main {
+    width: 80%;
+    margin: 20px auto;
+}
+.section {
+    width: 80%;
+    margin: 10px auto;
+    padding: 20px;
+    border: 2px solid #3b6978;
+    background-color: #fcf8f3;
+}
+.section__title {
+    color: #204051;
+}
+.section__paragraph {
+    color: #3b6978;
 }
