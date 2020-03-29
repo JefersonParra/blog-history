@@ -15,7 +15,12 @@
     margin: 10px auto;
     padding: 20px;
     border: 2px solid #3b6978;
+}
+.section__color--principal {
     background-color: #fcf8f3;
+}
+.section__color--secondary {
+    background-color: #cae8d5;    
 }
 .section__title {
     color: #204051;
