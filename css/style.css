@@ -7,6 +7,9 @@
     color: #000839;
     text-align: center;
 }
+.header__img{
+    width: 50px;
+}
 
 .main {
     width: 80%;
