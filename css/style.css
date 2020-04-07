@@ -21,6 +21,10 @@
     padding: 20px;
     border: 2px solid #3b6978;
 }
+.section--display {
+    display: flex;
+    justify-content: center;
+}
 .section__color--principal {
     background-color: #fcf8f3;
 }
