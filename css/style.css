@@ -45,7 +45,8 @@
     width: 90%;
     margin: 20px auto;
     padding: 20px 0;
-    background-color: #8db1ab;
+    border-radius: 20% 0 20% 0;
+    background-color: #00bdaa;
     text-align: center;
     font-size: 20px;
     font-weight: bold;
