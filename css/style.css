@@ -39,34 +39,23 @@ body {
     color: #faf4ff;
 }
 
-.main {
+.section {
     width: 90%;
     margin: auto;
-}
-.section {
-    width: 80%;
-    margin: 10px auto;
     padding: 20px;
-    border: 2px solid #3b6978;
-}
-.section--display {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
-.section__color--principal {
-    background-color: #fcf8f3;
+.section__article {
+    margin: 15px;
+    padding: 25px 15px;
+    border-radius: 5px;
+    border: 1px solid rgba(0,0,0,.125);
+    text-align: center;
 }
-.section__color--secondary {
-    background-color: #cae8d5;    
-}
-.section__color--tertiary {
-    background-color: #cff1ef;    
-}
-.section__title {
-    color: #204051;
-}
-.section__paragraph {
-    color: #3b6978;
+.article__img--size {
+    width: 180px;
+    margin: 20px auto;
 }
 
 .footer {
